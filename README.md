@@ -18,3 +18,4 @@ Ideen zu Corona in der Schweiz
 ### international
 
 * [NYT Corona Seite](https://www.nytimes.com/news-event/coronavirus)
+* [Vergleichsgraphen zum Fallwachstum zwischen Ländern](http://nrg.cs.ucl.ac.uk/mjh/covid19/#el). Diverse Grafen wo auch die Schweiz verglichen wird.
