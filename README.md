@@ -9,5 +9,11 @@ Ideen zu Corona in der Schweiz
 
 ## Quellen
 
+### CH
+
 * [Zahlen zu COVID Tests](https://en.wikipedia.org/w/index.php?title=COVID-19_testing)
 * [Zahlen zu COVID in CH](https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_der_Schweiz)
+
+### international
+
+* [NYT Corona Seite](https://www.nytimes.com/news-event/coronavirus)
