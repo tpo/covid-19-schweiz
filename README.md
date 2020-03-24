@@ -4,7 +4,7 @@ Ideen zu Corona in der Schweiz
 
 ## Mortalität in CH
 
-* [Table im Open Document Format (Libreoffice)](stats.ods)
+* [Tabelle im Open Document Format (Libreoffice)](stats.ods)
 
 ## Open Source Masken
 
