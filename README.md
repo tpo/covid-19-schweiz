@@ -2,6 +2,10 @@
 
 Ideen zu Corona in der Schweiz
 
+## Mortalität in CH
+
+* [Table im Open Document Format (Libreoffice)](stats.ods)
+
 ## Open Source Masken
 
 * https://twitter.com/mattparlmer/status/1240693957962502144
