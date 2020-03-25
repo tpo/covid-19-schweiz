@@ -17,6 +17,7 @@ Ideen zu Corona in der Schweiz
 
 * [Zahlen zu COVID Tests](https://en.wikipedia.org/w/index.php?title=COVID-19_testing)
 * [Zahlen zu COVID in CH](https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_der_Schweiz)
+* [corona-data.ch](https://corona-data.ch)
 * [NZZ Corona Seite](https://www.nzz.ch/panorama/die-wichtigsten-grafiken-zum-coronavirus-ld.1542774)
 * [BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)
 
