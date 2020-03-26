@@ -19,6 +19,7 @@ Ideen zu Corona in der Schweiz
 * [Zahlen zu COVID in CH](https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_der_Schweiz)
 * [corona-data.ch](https://corona-data.ch)
 * [NZZ Corona Seite](https://www.nzz.ch/panorama/die-wichtigsten-grafiken-zum-coronavirus-ld.1542774)
+* [Artikel zur voraussichtlichen Bettenbelegung in der NZZ](https://www.nzz.ch/wissenschaft/coronavirus-schweizer-spitaeler-schon-anfang-april-ueberlastet-ld.1548208)
 * [BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)
 
 ### LI
