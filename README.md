@@ -1,6 +1,6 @@
 # covid-19-schweiz
 
-Ideen zu Corona in der Schweiz
+Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 
 ## Mortalität in CH
 
@@ -28,7 +28,9 @@ Ideen zu Corona in der Schweiz
   Stand 29. März, Auskunft meiner Hausärztin: Kosten ca. 180 CHF. Keine Chance einen
   Test zu kriegen, wenn man nicht Pflegepersonal und/oder *sehr* krank.
 
-## Open Source Masken
+## Ideen
+
+### Open Source Masken
 
 * https://twitter.com/mattparlmer/status/1240693957962502144
 * https://twitter.com/OpenPPEProject
