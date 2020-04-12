@@ -22,10 +22,12 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 ## Fragen und Antworten
 
 * Genügt Händewaschen mit Seife?
-  [Offenbar schon](https://www.nzz.ch/wissenschaft/warum-coronaviren-seife-hassen-ld.1549264)
+
+  -> [Offenbar schon](https://www.nzz.ch/wissenschaft/warum-coronaviren-seife-hassen-ld.1549264)
 
 * Wo kann man sich auf Covid testen lassen? Was kostet das?
-  Stand 29. März, Auskunft meiner Hausärztin: Kosten ca. 180 CHF. Keine Chance einen
+
+  -> Stand 29. März, Auskunft meiner Hausärztin: Kosten ca. 180 CHF. Keine Chance einen
   Test zu kriegen, wenn man nicht Pflegepersonal und/oder *sehr* krank.
 
 ## Ideen
