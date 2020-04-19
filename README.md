@@ -22,6 +22,24 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 
   * Warum sind die Entscheidungskriterien des BAG nicht öffentlich?
 
+* Es wird jetz herumposaunt, dass die Schweiz die Einschränkungen
+  lockern will. Warum genau? Was waren genau die Kriterien für diese
+  Entscheidung? Welche zukünftige Entwicklung erwartet das BAG?
+  Wie kommen sie auf diese erwartete zukünftige Entwicklung?
+
+  Gemäss WHO **muss** ein Land, dass die Einschränkungen lockert,
+  [die folgenden Kriterien erfüllen](http://www.euro.who.int/en/media-centre/sections/statements/2020/statement-transition-to-a-new-normal-during-the-covid-19-pandemic-must-be-guided-by-public-health-principles):
+
+  * That evidence shows COVID-19 transmission is controlled;
+  * That public health and health system capacities including hospitals are in place to identify, isolate, test, trace contacts and quarantine them;
+  * That outbreak risks are minimized in high-vulnerability settings – particularly in elderly homes, mental health facilities and people residing in crowded places;
+  * That workplace preventive measures are established – with physical distancing, handwashing facilities, respiratory etiquette in place;
+  * That importation risks can be managed; and
+  * That communities have a voice and are engaged in the transition.
+
+  Welche von diesen Kriterien erfüllt CH? Wo sind die Daten, anhand
+  denen ich überprüfen kann, dass diese Kriterien erfüllt sind?
+
 
 ## Fragen mit Antworten
 
