@@ -15,6 +15,14 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 * Warum werden Corona-Fälle dem BAG über FAX gemeldet und nicht
   über Email oder Web Formular?
 
+* Es scheint mir das BAG hat keinen Plan. Wenn es einen hat, dann
+  ist er nicht öffentlich.
+
+  * Warum ist der Plan des BAG nicht öffentlich?
+
+  * Warum sind die Entscheidungskriterien des BAG nicht öffentlich?
+
+
 ## Fragen mit Antworten
 
 * Genügt Händewaschen mit Seife?
