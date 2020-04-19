@@ -2,10 +2,6 @@
 
 Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 
-## Mortalität in CH
-
-* [Tabelle im Open Document Format (Libreoffice)](stats.ods)
-
 ## Offene Fragen
 
 * Warum wird nich zufällig, stichprobenartig getestet, damit die
@@ -19,7 +15,7 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 * Warum werden Corona-Fälle dem BAG über FAX gemeldet und nicht
   über Email oder Web Formular?
 
-## Fragen und Antworten
+## Fragen mit Antworten
 
 * Genügt Händewaschen mit Seife?
 
@@ -29,6 +25,15 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 
   -> Stand 29. März, Auskunft meiner Hausärztin: Kosten ca. 180 CHF. Keine Chance einen
   Test zu kriegen, wenn man nicht Pflegepersonal und/oder *sehr* krank.
+
+* Wie funktioniert dezentrales Contact Tracing, das die Privatsphäre wahrt?
+
+  -> [Comic](https://ncase.me/contact-tracing/)
+
+## Eigenproduktion
+
+* Mortalität in CH, [Tabelle im Open Document Format (Libreoffice)](stats.ods)
+  **wird nicht mehr gepflegt!*
 
 ## Ideen
 
