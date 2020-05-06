@@ -80,6 +80,9 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 * [BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html)
 * [Zahlen zu COVID Tests](https://en.wikipedia.org/w/index.php?title=COVID-19_testing)
 * [Wikipedia zu COVID in CH](https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_der_Schweiz)
+* [R Monitoring in CH](https://bsse.ethz.ch/cevo/research/sars-cov-2/real-time-monitoring-in-switzerland.html)
+* [R Monitoring in CH 2](https://amkuhn.shinyapps.io/restimate/)
+* [R Monitoring in CH 2](https://ncs-tf.ch/de/lagebericht)
 
 ### LI
 
@@ -89,3 +92,4 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 
 * [NYT Corona Seite](https://www.nytimes.com/news-event/coronavirus)
 * [Vergleichsgraphen zum Fallwachstum zwischen Ländern](http://nrg.cs.ucl.ac.uk/mjh/covid19/#el). Diverse Grafen wo auch die Schweiz verglichen wird.
+* [R Monitoring Welt](https://amkuhn.shinyapps.io/rworld/)
