@@ -84,6 +84,12 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 * [R Monitoring in CH 2](https://amkuhn.shinyapps.io/restimate/)
 * [R Monitoring in CH 2](https://ncs-tf.ch/de/lagebericht)
 
+#### Experten Feeds
+
+* [Matthias Egger, Epid. Prof & NSC-TF Boss](https://twitter.com/eggersnsf)
+* [Christian Althaus, Epid](https://twitter.com/C_Althaus)
+* [Marcel Salathé](https://twitter.com/marcelsalathe)
+
 ### LI
 
 * [Liechtenstein Datenquelle von Wikipedia](https://www.regierung.li/ministerien/ministerium-fuer-gesellschaft/medienmitteilungen/)
