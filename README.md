@@ -20,8 +20,6 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 
   * Warum ist der Plan des BAG nicht öffentlich?
 
-  * Warum sind die Entscheidungskriterien des BAG nicht öffentlich?
-
 * Es wird jetz herumposaunt, dass die Schweiz die Einschränkungen
   lockern will. Warum genau? Was waren genau die Kriterien für diese
   Entscheidung? Welche zukünftige Entwicklung erwartet das BAG?
@@ -55,6 +53,10 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 * Wie funktioniert dezentrales Contact Tracing, das die Privatsphäre wahrt?
 
   -> [Comic](https://ncase.me/contact-tracing/)
+
+* Warum sind die Entscheidungskriterien des BAG nicht öffentlich?
+
+  -> [Swiss National Covid-10 Science Task Force](https://ncs-tf.ch/de/lagebericht)
 
 ## Eigenproduktion
 
