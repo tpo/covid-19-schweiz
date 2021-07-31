@@ -61,6 +61,13 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
   -> die Antwort hierzu bleibt offen. Die Gesellschaft hat's aber mit der
   Zeit geschafft genau Testkapazität zu generieren.
 
+* Was ändert eine Impfung?
+
+  * "Risk of severe disease or death reduced 10-fold or greaterin vaccinated"
+  * "Risk of infection reduced 3-foldin vaccinated"
+  * Quelle: CDC: https://context-cdn.washingtonpost.com/notes/prod/default/documents/54f57708-a529-4a33-9a44-b66d719070d9/note/7335c3ab-06ee-4121-aaff-a11904e68462.#page=1
+
+
 ## Eigenproduktion
 
 * Mortalität in CH, [Tabelle im Open Document Format (Libreoffice)](stats.ods)
