@@ -7,9 +7,6 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 * Warum wird nich zufällig, stichprobenartig getestet, damit die
   Durchseuchung der Bevölkerung erfasst wird?
 
-* Warum werden nicht die Testkapazitäten der vielen, vielen
-  Biotech und Pharma Firmen genutzt?
-
 * Wo kann man sich auf Antikörper testen lassen? Was kostet das?
 
 * Warum werden Corona-Fälle dem BAG über FAX gemeldet und nicht
@@ -57,6 +54,12 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 * Warum sind die Entscheidungskriterien des BAG nicht öffentlich?
 
   -> [Swiss National Covid-10 Science Task Force](https://ncs-tf.ch/de/lagebericht)
+
+* Warum werden nicht die Testkapazitäten der vielen, vielen
+  Biotech und Pharma Firmen genutzt?
+
+  -> die Antwort hierzu bleibt offen. Die Gesellschaft hat's aber mit der
+  Zeit geschafft genau Testkapazität zu generieren.
 
 ## Eigenproduktion
 
