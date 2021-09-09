@@ -68,6 +68,10 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
   * Quelle: CDC: https://context-cdn.washingtonpost.com/notes/prod/default/documents/54f57708-a529-4a33-9a44-b66d719070d9/note/7335c3ab-06ee-4121-aaff-a11904e68462.#page=1
 
 
+## Kennzahlen zu Corona
+
+[Hier](kennzahlen.md)
+
 ## Eigenproduktion
 
 * Mortalität in CH, [Tabelle im Open Document Format (Libreoffice)](stats.ods)
