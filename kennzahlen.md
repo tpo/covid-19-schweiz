@@ -12,6 +12,9 @@
 * Wie wahrscheinlich ist es, dass man an Corona stirbt?
   * 1/66 * 1/4 =~ 1/250 (Zahlen von oben)
 
+* Wie wahrscheinlich ist es, dass man nach einer Infektion an Long Corona leidet?
+  * ?
+
 * Wie wahrscheinlich ist es, dass es nach einer Impfung
   zu einer Herzentzündung kommt?
   * [~ 1/80000][5]
