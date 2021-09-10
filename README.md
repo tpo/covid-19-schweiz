@@ -96,7 +96,8 @@ Ideen, Fragen, Antworten, Links zu Corona in der Schweiz
 * [Wikipedia zu COVID in CH](https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_der_Schweiz)
 * [R Monitoring in CH](https://bsse.ethz.ch/cevo/research/sars-cov-2/real-time-monitoring-in-switzerland.html)
 * [R Monitoring in CH 2](https://amkuhn.shinyapps.io/restimate/)
-* [R Monitoring in CH 2](https://ncs-tf.ch/de/lagebericht)
+* [R Monitoring in CH 3](https://ncs-tf.ch/de/lagebericht)
+* [Impf-Statistiken CH](https://haeri.github.io/vacc-stats/) ([Ankündigung](https://twitter.com/HaeriStudios/status/1429781276920324099))
 
 #### Experten Feeds
 
